@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinccRecipeLib", "WinccRecipeLib\WinccRecipeLib.csproj", "{BB1BD7FB-B7E3-4244-897C-B131BF06213D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinccRecipeSqlFind", "WinccRecipeSqlFind\WinccRecipeSqlFind.csproj", "{12BE6114-3A7B-4718-9BE6-73F219070C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1BD7FB-B7E3-4244-897C-B131BF06213D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1BD7FB-B7E3-4244-897C-B131BF06213D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1BD7FB-B7E3-4244-897C-B131BF06213D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BB1BD7FB-B7E3-4244-897C-B131BF06213D}.Debug|x86.Build.0 = Debug|Any CPU
+		{BB1BD7FB-B7E3-4244-897C-B131BF06213D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1BD7FB-B7E3-4244-897C-B131BF06213D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1BD7FB-B7E3-4244-897C-B131BF06213D}.Release|x86.ActiveCfg = Release|Any CPU
+		{BB1BD7FB-B7E3-4244-897C-B131BF06213D}.Release|x86.Build.0 = Release|Any CPU
+		{12BE6114-3A7B-4718-9BE6-73F219070C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BE6114-3A7B-4718-9BE6-73F219070C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BE6114-3A7B-4718-9BE6-73F219070C64}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{12BE6114-3A7B-4718-9BE6-73F219070C64}.Debug|x86.Build.0 = Debug|Any CPU
+		{12BE6114-3A7B-4718-9BE6-73F219070C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BE6114-3A7B-4718-9BE6-73F219070C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12BE6114-3A7B-4718-9BE6-73F219070C64}.Release|x86.ActiveCfg = Release|Any CPU
+		{12BE6114-3A7B-4718-9BE6-73F219070C64}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06797E42-41E3-4CB0-AF62-6804E9C5FFE7}
+	EndGlobalSection
+EndGlobal
